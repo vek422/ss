@@ -1,0 +1,11 @@
+/* some multiline comment may be
+this could be something that 
+exits beyond the 
+*/
+int x
+if 
+else
+#include<iostream.h>
+<>
+#define
+

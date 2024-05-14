@@ -1,0 +1,4 @@
+this is an sample file to check 
+the number of lines in file
+number of characters a
+and number of words
